@@ -19,18 +19,27 @@ Controls:
 	-	STOP	+
 
  ROTATION
+
 X=		Q	W	E
+
 Y=		A	S	D
+
 Z=		Z	X	C
 
  SCALEING
+
 X=		R	T	Y
+
 Y=		F	G	H
+
 Z=		V	B	N
 
  TRANSLATION
+
 X=		U	I	O
+
 Y=		J	K	L
+
 Z=		M	,	.
 
 SPACE BAR	=	STOP ALL CHANGES
