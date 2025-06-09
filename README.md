@@ -43,4 +43,5 @@ Y=		J	K	L
 Z=		M	,	.
 
 SPACE BAR	=	STOP ALL CHANGES
+
 ESC		=	QUIT
