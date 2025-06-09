@@ -1,5 +1,5 @@
 # dazzler-demos
-Demos for the Dazzler Graphics card s-100
+Demos for the Dazzler Graphics card s-100 requires full 64KB memory.
 
 PIANO is a simple music piano for the dazzler II graphics card with sound board. 
 uses the keyboard set your caps lock.
