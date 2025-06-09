@@ -14,6 +14,8 @@ Paku128 a pacman like demo program that works in 128x128 mono mode for the dazzl
 
 3dCUBE a 3d engine demo
 
+![DSCN6378](https://github.com/user-attachments/assets/86aeba64-9b28-4208-9b36-0629e9c331ae)
+
 Controls:
 
 	-	STOP	+
