@@ -12,7 +12,7 @@ Paku64 a pacman like demo program that works in 64x64 color mode for the dazzler
 Paku128 a pacman like demo program that works in 128x128 mono mode for the dazzler. uses dazzler joystick for input.
 ![DSCN6376](https://github.com/user-attachments/assets/3e9f7ad0-e28f-4449-821d-7123282c84f3)
 
-3dCUBE a 3d engine demo
+3dCUBE a 3d engine written in 2021 and has bugs i never addressed.
 
 ![DSCN6378](https://github.com/user-attachments/assets/86aeba64-9b28-4208-9b36-0629e9c331ae)
 
